@@ -1,0 +1,15 @@
+/Users/devinsalgado35/Desktop/Shuffle/Algorithms/Shuffler/bin/Debug/net6.0/Shuffler
+/Users/devinsalgado35/Desktop/Shuffle/Algorithms/Shuffler/bin/Debug/net6.0/Shuffler.deps.json
+/Users/devinsalgado35/Desktop/Shuffle/Algorithms/Shuffler/bin/Debug/net6.0/Shuffler.runtimeconfig.json
+/Users/devinsalgado35/Desktop/Shuffle/Algorithms/Shuffler/bin/Debug/net6.0/Shuffler.dll
+/Users/devinsalgado35/Desktop/Shuffle/Algorithms/Shuffler/bin/Debug/net6.0/Shuffler.pdb
+/Users/devinsalgado35/Desktop/Shuffle/Algorithms/Shuffler/obj/Debug/net6.0/Shuffler.csproj.AssemblyReference.cache
+/Users/devinsalgado35/Desktop/Shuffle/Algorithms/Shuffler/obj/Debug/net6.0/Shuffler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/devinsalgado35/Desktop/Shuffle/Algorithms/Shuffler/obj/Debug/net6.0/Shuffler.AssemblyInfoInputs.cache
+/Users/devinsalgado35/Desktop/Shuffle/Algorithms/Shuffler/obj/Debug/net6.0/Shuffler.AssemblyInfo.cs
+/Users/devinsalgado35/Desktop/Shuffle/Algorithms/Shuffler/obj/Debug/net6.0/Shuffler.csproj.CoreCompileInputs.cache
+/Users/devinsalgado35/Desktop/Shuffle/Algorithms/Shuffler/obj/Debug/net6.0/Shuffler.dll
+/Users/devinsalgado35/Desktop/Shuffle/Algorithms/Shuffler/obj/Debug/net6.0/refint/Shuffler.dll
+/Users/devinsalgado35/Desktop/Shuffle/Algorithms/Shuffler/obj/Debug/net6.0/Shuffler.pdb
+/Users/devinsalgado35/Desktop/Shuffle/Algorithms/Shuffler/obj/Debug/net6.0/Shuffler.genruntimeconfig.cache
+/Users/devinsalgado35/Desktop/Shuffle/Algorithms/Shuffler/obj/Debug/net6.0/ref/Shuffler.dll

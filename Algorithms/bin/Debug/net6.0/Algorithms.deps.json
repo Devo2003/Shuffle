@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Algorithms/1.0.0": {
+        "dependencies": {
+          "MyShuffle": "1.0.0",
+          "Shuffler": "1.0.0"
+        },
+        "runtime": {
+          "Algorithms.dll": {}
+        }
+      },
+      "MyShuffle/1.0.0": {
+        "runtime": {
+          "MyShuffle.dll": {}
+        }
+      },
+      "Shuffler/1.0.0": {
+        "runtime": {
+          "Shuffler.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Algorithms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyShuffle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Shuffler/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
